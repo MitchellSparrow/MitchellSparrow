@@ -1,3 +1,5 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFwdcDcJPE1gQ/profile-displaybackgroundimage-shrink_350_1400/0/1668435765577?e=1674086400&v=beta&t=VpjyoFhgll7LaaHOB3tzcnyOqC7UGogwnXv4Q-kIgvI)]([https://rishavchanda.io](https://instagram.com/@mitch_sparrow))
+
 - 👋 Hi, I’m @MitchellSparrow
 - 👀 I’m interested in artificial intelligence, machine learning, coding and robotics
 - 🌱 I’m currently completing my MSc in Computer Science with Artificial Intelligence at the University of Nottingham, United Kingdom
@@ -5,9 +7,7 @@
 - 📫 You can contact me via email: mitch.sparrow@hotmail.com
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitchellsparrow&label=Profile%20views&color=0e75b6&style=flat" alt="mitchellsparrow" /> </p>
-
 
 
 <h3 align="left">Connect with me:</h3>
