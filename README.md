@@ -21,9 +21,11 @@
 
 <!-- [![Mitch's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitchellsparrow&&theme=xcode)](https://github.com/mitchellsparrow) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitchellsparrow&show_icons=true&locale=en&theme=tokyonight" alt="mitchellsparrow"/></p>
+<h3 align="left">Stats and Sontributions:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchellsparrow&&theme=tokyonight" alt="mitchellsparrow" /></p>
+Stats             |  Contributions
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=mitchellsparrow&show_icons=true&locale=en&theme=tokyonight)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=mitchellsparrow&&theme=tokyonight)
 
 
 <!---
