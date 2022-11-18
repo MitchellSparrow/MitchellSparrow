@@ -3,7 +3,6 @@
 - 🌱 I’m currently doing consulting work as a machine learning engineer and software engineer
 - 🎓 MSc Computer Science with Artificial Intelligence at the University of Nottingham, United Kingdom
 - 📚 BEng Mechatronics at Stellenbosch University, United Kingdom
-- 💞️ I’m looking to hopefully work as a machine learning engineer or data scientist
 - 📫 You can contact me via email: mitch.sparrow@hotmail.com
 
 
