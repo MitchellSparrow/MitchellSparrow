@@ -21,7 +21,7 @@
 
 <!-- [![Mitch's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitchellsparrow&&theme=xcode)](https://github.com/mitchellsparrow) -->
 
-<h3 align="left">Stats and Sontributions:</h3>
+<h3 align="left">Stats and Contributions:</h3>
 
 Stats             |  Contributions
 :-------------------------:|:-------------------------:
