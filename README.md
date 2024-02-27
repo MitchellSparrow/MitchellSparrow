@@ -10,10 +10,6 @@
 - 🥑 Check out my portfolio website at [mitchellsparrow.com](https://mitchellsparrow.com)
 - 📫 You can contact me via email: mitch.sparrow@hotmail.com
 
-Stats             |  Contributions
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=mitchellsparrow&show_icons=true&locale=en&theme=tokyonight)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=mitchellsparrow&&theme=tokyonight)
-
 
 <!---
 MitchellSparrow/MitchellSparrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
