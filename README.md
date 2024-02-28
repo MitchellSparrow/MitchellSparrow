@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mitch</h1>
+<h1 align="center">Hi 👋🏼 I'm Mitch</h1>
 <h3 align="center">Software & Machine Leaning Engineer</h3>
 
 
